@@ -112,7 +112,7 @@ Configure tailwind.config.js and add Tailwind directives to index.css.
   - Persisted theme preference in `localStorage`
 
 ---
-## 📱 Phase 4: Polish & Optimization (2–3 hours)
+## 📱 Phase 4: Polish & Optimization
 **Goal:** Finalize layout, improve responsiveness, and handle edge cases.
 
 #### 🧼 Tasks:
